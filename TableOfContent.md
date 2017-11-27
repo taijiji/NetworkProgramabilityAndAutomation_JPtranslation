@@ -1,9 +1,11 @@
-#Title: 
-Network Programmability and Automation: Skills for Next-Generation Network Engineer
+# Title
 ネットワークのプログラマビリティとオートメーション: 次世代ネットワークエンジニアに求められるスキル
 
+- 原題: Network Programmability and Automation: Skills for Next-Generation Network Engineer
 
-#目次  
+
+
+# 目次(Table of Contents)
 0. 序文
 1. ネットワーク業界のトレンド
    1. Software Defined Networkig(SDN)の始まり
