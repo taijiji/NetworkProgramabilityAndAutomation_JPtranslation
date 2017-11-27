@@ -110,3 +110,15 @@
         1. Jinjaでのテンプレートの継承
         1. Jinjaでの変数生成
     1. まとめ
+1. ネットワークAPIを動作させる
+    1. ネットワークAPIを理解する
+        1. HTTPベースのAPIに慣れる(親しくなる)
+        1. NETCONFに飛び込む
+    1. ネットワークAPIを探検する(調査する)
+        1. HTTPベースのAPIを探検する
+        1. NETCONFを探検する
+    1. ネットワークAPIを使って自動化する
+        1. Pythonライブラリ regests を使う
+        1. Pythonライブラリ ncclient を使う
+        1. netmikoを使う
+    1. まとめ
