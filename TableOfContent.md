@@ -73,5 +73,24 @@ Network Programmability and Automation: Skills for Next-Generation Network Engin
     1. Pythonスクリプトに引数を引き渡す
     1. pipを利用してPythonパッケージをインストールする
     1. さらなるTips, トリック、Pythonを利用する際の一般情報を学ぶ
-    1. まとめ 
-
+    1. まとめ
+1. データフォーマットとデータモデル
+    1. データフォーマットへの導入
+        1. データ型
+    1. YAML
+        1. YAML基礎のレビュー
+        1. PythonからYAMLを動作させる
+        1. YAMLにおけるデータモデル
+    1. XML
+        1. XML基礎のレビュー
+        1. データモデルのためのXMLスキーマ定義(XSD: XML Schema Definition)
+        1. XSLTを使ったXMLの変換
+        1. XQueryを使ったXMLの検索
+    1. JSON
+        1. JSON基礎のレビュー
+        1. PythonでJSONを動作させる
+        1. データモデルのためのJSONスキーマを使う
+    1. YANGを使ったデータモデル
+        1. YANGの概要
+        1. YANGをより深く掘り下げる
+    1. まとめ
